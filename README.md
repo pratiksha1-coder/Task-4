@@ -26,4 +26,8 @@ Responsive & Accessible – Works on all devices.
 Clean & Minimalistic – User-friendly, clutter-free interface.
 Engaging & Interactive – Multimedia content, gamification, and modern UI elements.
 
+output
+
+![Image](https://github.com/user-attachments/assets/931615f7-c52e-486d-b9c4-ee3832f91d6f)
+
 
